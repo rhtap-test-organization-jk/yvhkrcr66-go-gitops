@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yvhkrcr66-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/yvhkrcr66-go-gitops
